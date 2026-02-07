@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "Slip Gaji Master",
+    "name": "slipgaji",
     "slug": "slipgaji",
     "version": "2.0.1",
     "orientation": "portrait",
@@ -19,7 +19,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.komputerwh2.slipgajiapp"
+      "package": "com.komputerwh2.slipgaji"
     },
     "extra": {
       "eas": {
